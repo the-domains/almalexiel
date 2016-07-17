@@ -1,4 +1,3 @@
-layout_spectrum: 0.2598578231409192
 typography_spectrum: 0.34841720340773463
 color:
   brandStrength: 0.7943608446512371
@@ -6,9 +5,14 @@ color:
   saturation: 0.16400700667873025
   rhythmicContrast: 0.04489583894610405
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.2598578231409192
+author:
+  name: Vivianne Ducharme
+  email: ''
 name: Almalexiel
+title: Illustrator & Designer
